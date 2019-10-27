@@ -1,4 +1,4 @@
-package com.ericqin.algorithm;
+package com.ericqin.algorithm.day1;
 
 
 import java.io.*;
